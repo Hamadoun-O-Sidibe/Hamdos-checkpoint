@@ -1,0 +1,25 @@
+REQUÊTE POUR ASSISTANT IA - MENU SAVEURS D'AFRIQUE
+
+Copiez-collez cette requête intégralement à un assistant IA :
+
+---
+
+Génère UNIQUEMENT les lignes HTML à insérer dans la balise <tbody> d'une page web pour un restaurant fictif appelé "Saveurs d'Afrique".
+
+CONTRAINTES STRICTES :
+- Trois catégories obligatoires : Entrées, Plats principaux et Desserts
+- Au moins trois plats dans chaque catégorie, soit minimum 9 plats au total
+- Pour chaque catégorie, ajoute une ligne de titre avec : <tr><th colspan="4" scope="colgroup">NOM_CATEGORIE</th></tr>
+- Pour chaque plat, ajoute une ligne <tr> avec EXACTEMENT 4 cellules <td> dans cet ordre : image, nom du plat, description, prix
+- Les prix doivent être en FCFA (exemple : 2500 FCFA, 4500 FCFA)
+- Au moins DEUX balises <img> réelles avec attributs src ET alt descriptifs
+- HTML valide, accessible et correctement indenté
+- AUCUN CSS, AUCUN JavaScript
+- N'inclus PAS <thead>, <tbody>, <table>, ni le reste de la page
+- Uniquement les <tr> pour le tbody
+
+Pour les images, tu peux utiliser des URLs d'images libres de droits (ex: https://images.unsplash.com/...) ou des chemins relatifs fictifs comme images/nom-plat.jpg
+
+Fais en sorte que les noms de plats, descriptions et prix soient cohérents avec la cuisine africaine authentique.
+
+Génère uniquement le code HTML demandé, sans explication, sans commentaire.

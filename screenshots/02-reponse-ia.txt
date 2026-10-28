@@ -1,0 +1,69 @@
+RÉPONSE GÉNÉRÉE (simulation de réponse IA)
+
+Voici les lignes HTML générées conformément aux exigences :
+
+<tr>
+    <th colspan="4" scope="colgroup">Entrées</th>
+</tr>
+<tr>
+    <td><img src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400" alt="Assiette de salade Kachumbari"></td>
+    <td>Kachumbari</td>
+    <td>Salade fraîche de tomates, oignons, piment et coriandre, assaisonnée au citron.</td>
+    <td>1500 FCFA</td>
+</tr>
+<tr>
+    <td><img src="https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400" alt="Boulettes de akara dorées"></td>
+    <td>Akara</td>
+    <td>Boulettes frites à base de haricots noirs moulus, croustillantes à l'extérieur et moelleuses à l'intérieur.</td>
+    <td>2000 FCFA</td>
+</tr>
+<tr>
+    <td>-</td>
+    <td>Alloco</td>
+    <td>Bananes plantains frites, servies chaudes avec une sauce pimentée maison.</td>
+    <td>1800 FCFA</td>
+</tr>
+
+<tr>
+    <th colspan="4" scope="colgroup">Plats principaux</th>
+</tr>
+<tr>
+    <td><img src="https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=400" alt="Riz jollof avec poulet grillé"></td>
+    <td>Riz Jollof</td>
+    <td>Riz cuit dans une sauce tomate épicée, accompagné de poulet grillé et de légumes.</td>
+    <td>4500 FCFA</td>
+</tr>
+<tr>
+    <td>-</td>
+    <td>Thieboudienne</td>
+    <td>Plat national sénégalais : riz au poisson, préparé avec du poisson frais, des légumes et une sauce tomate.</td>
+    <td>5000 FCFA</td>
+</tr>
+<tr>
+    <td>-</td>
+    <td>Fufu et Ndolé</td>
+    <td>Fufu de manioc servi avec du ndolé, un ragoût de feuilles amères aux arachides et crevettes.</td>
+    <td>4800 FCFA</td>
+</tr>
+
+<tr>
+    <th colspan="4" scope="colgroup">Desserts</th>
+</tr>
+<tr>
+    <td>-</td>
+    <td>Thiakry</td>
+    <td>Dessert sénégalais à base de millet fermenté, yaourt sucré et parfumé à la vanille.</td>
+    <td>1500 FCFA</td>
+</tr>
+<tr>
+    <td>-</td>
+    <td>Beignets de banane</td>
+    <td>Beignets dorés à la banane plantain, saupoudrés de sucre et servis chauds.</td>
+    <td>1200 FCFA</td>
+</tr>
+<tr>
+    <td><img src="https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400" alt="Salade de fruits tropicaux"></td>
+    <td>Salade de fruits tropicaux</td>
+    <td>Mélange frais d'ananas, mangue, papaye et noix de coco, arrosé de jus de citron vert.</td>
+    <td>1800 FCFA</td>
+</tr>
